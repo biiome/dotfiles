@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 7ef0fe42b9bdb229ba0f22f85169b3bab0367718 Vraj Barot <vraj.barot@vetchip.com.au> 1681957513 +0800	commit (initial): Uploading config from work
+7ef0fe42b9bdb229ba0f22f85169b3bab0367718 7ef0fe42b9bdb229ba0f22f85169b3bab0367718 Vraj Barot <vraj.barot@vetchip.com.au> 1681957539 +0800	Branch: renamed refs/heads/master to refs/heads/main
+7ef0fe42b9bdb229ba0f22f85169b3bab0367718 8724b7f622bb91824729843b670fe54fbaa4fffe Vraj Barot <vraj.barot@vetchip.com.au> 1683249475 +0800	commit: style changes
+8724b7f622bb91824729843b670fe54fbaa4fffe 8e64f104949b8b825b28c36da4d615c3a98f3029 Vraj Barot <vraj.barot@vetchip.com.au> 1683768657 +0800	commit: adding everything
+8e64f104949b8b825b28c36da4d615c3a98f3029 4726265dbadd52007bb92326726554f810b4a5ed Vraj Barot <vraj.barot@vetchip.com.au> 1683769044 +0800	commit: Adding custom folder
+4726265dbadd52007bb92326726554f810b4a5ed e2eabe8be03a33fb394a19529206255d92e37adc Vraj Barot <vraj.barot@vetchip.com.au> 1684128339 +0800	commit: Added c autoformatting using null-ls
