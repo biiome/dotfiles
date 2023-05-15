@@ -4,7 +4,7 @@ This is where my dotfiles live.
 ## How to use:
 1. Install chezmoi 
 
-`sh -c "$(curl -fsLS get.chezmoi.io)" -- -b $HOME/.local/bin`
+    `sh -c "$(curl -fsLS get.chezmoi.io)" -- -b $HOME/.local/bin`
 
 2. Initialise chezmoi with this repo:
 
