@@ -18,7 +18,6 @@ This is where my dotfiles live.
 
     ```
     chezmoi diff
-
     ```
 
 4. If you are happy with the changes will make then run:
