@@ -1,9 +1,12 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
+# Starship prompt
+eval "$(starship init zsh)"
+
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-export PATH="$HOME/.local/bin/:$PATH"
+export PATH="$HOME/.local/bin/:$HOME/.cargo/bin/:$PATH"
 
 # Theme
 ZSH_THEME="robbyrussell"
@@ -29,5 +32,11 @@ alias gp="git push"
 alias ga="git add"
 alias cl="clear"
 alias tt="ttyper"
+alias rm="trash"
+alias "rmr -rf"="trash -rf"
+alias py="python3"
+alias up="sudo nala update && sudo nala upgrade"
+alias ins="sudo nala install"
+alias rem="sudo nala remove"
 
 export DISPLAY=localhost:0.0
