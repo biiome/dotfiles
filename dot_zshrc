@@ -6,7 +6,7 @@ eval "$(starship init zsh)"
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-export PATH="$HOME/.local/bin/:$HOME/.cargo/bin/:$PATH"
+export PATH="$HOME/.local/bin/:$HOME/.cargo/bin/:$HOME/Applications/flutter/bin/:$PATH"
 
 # Theme
 ZSH_THEME="robbyrussell"
